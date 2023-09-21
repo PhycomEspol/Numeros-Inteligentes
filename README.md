@@ -138,9 +138,32 @@ Puedes encontrar un video demostrativo de este proyecto en [este enlace](https:/
 
 A continuación, se muestran algunas imágenes del proyecto:
 
-![Imagen 1](url_de_la_imagen_1.png)
-![Imagen 2](url_de_la_imagen_2.png)
+<div align="center">
+  <img src="src/number.jpeg" alt="Número" width="500" height="500" />
+</div>
+
+<div align="center">
+  <img src="src/program.jpeg" alt="Programa" width="600" height="500" />
+</div>
 
 ## Informacion-adicional ✒️
----
-Esta es la sección que permite agregar más información de contexto al proyecto como alguna web de relevancia, proyectos similares o que hayan usado la misma tecnología.
+
+En esta sección, proporcionamos información adicional relacionada con el proyecto y recursos relacionados que pueden ser de interés:
+
+### Recursos de Relevancia
+
+- **Sitio Web Oficial de Arduino UNO:** Para obtener información detallada sobre Arduino UNO y sus capacidades, visita el [sitio web oficial de Arduino](https://www.arduino.cc/).
+
+- **Proyectos de OpenCV:** Si estás interesado en explorar más proyectos que utilicen OpenCV para el procesamiento de imágenes, puedes encontrar una gran variedad de ejemplos en [el repositorio oficial de OpenCV](https://github.com/opencv/opencv).
+
+### Proyectos Similares
+
+Si deseas explorar otros proyectos similares que utilicen Arduino UNO y OpenCV para aplicaciones de procesamiento de imágenes, aquí hay algunos ejemplos interesantes:
+
+- **Sistema de Reconocimiento de Gestos:** Un proyecto que utiliza Arduino y OpenCV para reconocer gestos de mano y controlar dispositivos electrónicos mediante gestos.
+
+- **Contador de Objetos en Tiempo Real:** Un proyecto que utiliza una cámara y OpenCV para contar objetos en movimiento en tiempo real.
+
+- **Detección de Emociones:** Un proyecto que utiliza OpenCV para detectar y reconocer emociones faciales en imágenes y videos.
+
+Estos proyectos pueden proporcionarte ideas adicionales y enfoques para explorar en el mundo de la electrónica y la visión por computadora. ¡No dudes en investigar más y seguir aprendiendo!
