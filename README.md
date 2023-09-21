@@ -1,5 +1,5 @@
 <h1 align="center"> Números Inteligentes </h1>
-<p align="center"><img src="https://www.webdevelopersnotes.com/wp-content/uploads/create-a-simple-home-page.png"/></p> 
+<p align="center"><img src="src\numeros_inteligentes.jpeg"/></p> 
 
 
 ## Descripcion  📋
