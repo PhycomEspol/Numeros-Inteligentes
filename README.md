@@ -63,6 +63,9 @@ Total Estimado: $21.50 USD 💲
 A continuación, se muestra el esquema de conexión del circuito que debes seguir para conectar los componentes de manera correcta. Esto es esencial para que la aplicación funcione correctamente con Arduino UNO y la matriz de LED. Asegúrate de seguir este esquema detenidamente.
 
 <!-- Inserta una imagen del esquema de conexión aquí -->
+<p align="center">
+  <img src="src\esquema.png" width="500px" />
+</p>
 
 ## Simulacion-e-Instalacion  🔧
 
